@@ -3,10 +3,15 @@ body {
 }
 
 h1 {
-
+	@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+	text-align: right;
+	font-family: "PT Serif", bold;
 }
 
 p {
+	@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,600);
+	text-align: right;
+	font-family: "Titillium Web";
 
 }
 
